@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá, seja bem-vindo ao meu Github
+
+Sou Tatiana e estou finalizando o curso de Análise dde Dados na Ebac
+
+Tenho habilidades em 
+Python, Pandas, Machine Leraning, Google Colab, Amazon AWS, SQL, HTML
+
+Disponibilizo aqui alguns de meus projetos
+
 
 <!--
 **TatianaRaCo/TatianaRaCo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
