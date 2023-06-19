@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo ao meu Github
 
-Sou Tatiana e estou finalizando o curso de Análise dde Dados na Ebac
+Sou Tatiana e estou finalizando o curso de Análise de Dados na Ebac
 
 Tenho habilidades em 
 Python, Pandas, Machine Leraning, Google Colab, Amazon AWS, SQL, HTML
