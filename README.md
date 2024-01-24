@@ -1,9 +1,9 @@
 ### Olá, seja bem-vindo ao meu Github
 
-Sou Tatiana e recentemente finalizei o curso de Análise de Dados na Ebac
+Sou Tatiana e recentemente finalizei o curso de Análise de Dados na Ebac e estou fazendo o curso Full Stack Python
 
 Tenho habilidades em 
-Python, Pandas, Machine Leraning, Google Colab, Amazon AWS, SQL, HTML
+HTML, CSS, SQL, Python, Pandas, Machine Leraning, Google Colab, Amazon AWS, Photoshop, IA
 
 Disponibilizo aqui alguns de meus projetos
 
